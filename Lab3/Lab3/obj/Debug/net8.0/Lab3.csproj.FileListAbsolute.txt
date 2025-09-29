@@ -1,0 +1,14 @@
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll
