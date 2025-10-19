@@ -1,0 +1,14 @@
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\bin\Debug\net8.0\Lab5.exe
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\bin\Debug\net8.0\Lab5.deps.json
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\bin\Debug\net8.0\Lab5.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\bin\Debug\net8.0\Lab5.pdb
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\Lab5.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\refint\Lab5.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\Lab5.pdb
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Лабы\Lab5\Lab5\obj\Debug\net8.0\ref\Lab5.dll
