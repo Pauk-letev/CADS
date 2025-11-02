@@ -177,8 +177,13 @@
     public void RetainAll(T[] a)
     {
         if (a == null) throw new PriorityQueueArgumentNullException();
-        foreach (T e in a)
-            if (!Contains(e)) Remove(e);
+        foreach (T e in queue)
+        {
+            bool f = true;
+            foreach (T el in a)
+                if (e.Equals(el)) f = false;
+            if (f) Remove(e);
+        }
     }
 
     public T? Peek() => !IsEmpty() ? Element() : default;
