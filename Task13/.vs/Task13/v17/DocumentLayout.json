@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E04320AD-023C-406C-AE80-7B13986509E3}|Task13\\Task13.csproj|c:\\users\\paulik\\onedrive\\desktop\\vs\\cs\\\u043A\u0430\u0441\u0434\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\task13\\task13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04320AD-023C-406C-AE80-7B13986509E3}|Task13\\Task13.csproj|solutionrelative:task13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04320AD-023C-406C-AE80-7B13986509E3}|Task13\\Task13.csproj|c:\\users\\paulik\\onedrive\\desktop\\vs\\cs\\\u043A\u0430\u0441\u0434\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\task13\\task13\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04320AD-023C-406C-AE80-7B13986509E3}|Task13\\Task13.csproj|solutionrelative:task13\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04320AD-023C-406C-AE80-7B13986509E3}|Task13\\Task13.csproj|c:\\users\\paulik\\onedrive\\desktop\\vs\\cs\\\u043A\u0430\u0441\u0434\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\task13\\task13\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04320AD-023C-406C-AE80-7B13986509E3}|Task13\\Task13.csproj|solutionrelative:task13\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04320AD-023C-406C-AE80-7B13986509E3}|Task13\\Task13.csproj|c:\\users\\paulik\\onedrive\\desktop\\vs\\cs\\\u043A\u0430\u0441\u0434\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\task13\\task13\\vectorexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04320AD-023C-406C-AE80-7B13986509E3}|Task13\\Task13.csproj|solutionrelative:task13\\vectorexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VectorExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\Task13\\VectorExceptions.cs",
+              "RelativeDocumentMoniker": "Task13\\VectorExceptions.cs",
+              "ToolTip": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\Task13\\VectorExceptions.cs",
+              "RelativeToolTip": "Task13\\VectorExceptions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:12:31.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyVector.cs",
+              "DocumentMoniker": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\Task13\\MyVector.cs",
+              "RelativeDocumentMoniker": "Task13\\MyVector.cs",
+              "ToolTip": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\Task13\\MyVector.cs",
+              "RelativeToolTip": "Task13\\MyVector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:12:13.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\Task13\\MyStack.cs",
+              "RelativeDocumentMoniker": "Task13\\MyStack.cs",
+              "ToolTip": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\Task13\\MyStack.cs",
+              "RelativeToolTip": "Task13\\MyStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:11:58.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\Task13\\Program.cs",
+              "RelativeDocumentMoniker": "Task13\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task13\\Task13\\Program.cs",
+              "RelativeToolTip": "Task13\\Program.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAgwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:10:33.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
