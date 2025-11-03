@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F39970-0633-460B-BDA9-B98589881827}|Task11\\Task11.csproj|c:\\users\\paulik\\onedrive\\desktop\\vs\\cs\\\u043A\u0430\u0441\u0434\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\task11\\task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F39970-0633-460B-BDA9-B98589881827}|Task11\\Task11.csproj|solutionrelative:task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F39970-0633-460B-BDA9-B98589881827}|Task11\\Task11.csproj|c:\\users\\paulik\\onedrive\\desktop\\vs\\cs\\\u043A\u0430\u0441\u0434\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\task11\\task11\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F39970-0633-460B-BDA9-B98589881827}|Task11\\Task11.csproj|solutionrelative:task11\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F39970-0633-460B-BDA9-B98589881827}|Task11\\Task11.csproj|c:\\users\\paulik\\onedrive\\desktop\\vs\\cs\\\u043A\u0430\u0441\u0434\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\task11\\task11\\vectorexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F39970-0633-460B-BDA9-B98589881827}|Task11\\Task11.csproj|solutionrelative:task11\\vectorexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VectorExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task11\\Task11\\VectorExceptions.cs",
+              "RelativeDocumentMoniker": "Task11\\VectorExceptions.cs",
+              "ToolTip": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task11\\Task11\\VectorExceptions.cs",
+              "RelativeToolTip": "Task11\\VectorExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:42:03.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyVector.cs",
+              "DocumentMoniker": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task11\\Task11\\MyVector.cs",
+              "RelativeDocumentMoniker": "Task11\\MyVector.cs",
+              "ToolTip": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task11\\Task11\\MyVector.cs",
+              "RelativeToolTip": "Task11\\MyVector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:40:32.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task11\\Task11\\Program.cs",
+              "RelativeDocumentMoniker": "Task11\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulik\\OneDrive\\Desktop\\Vs\\Cs\\\u041A\u0410\u0421\u0414\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\Task11\\Task11\\Program.cs",
+              "RelativeToolTip": "Task11\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:37:09.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
