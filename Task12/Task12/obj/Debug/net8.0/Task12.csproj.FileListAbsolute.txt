@@ -1,0 +1,15 @@
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\bin\Debug\net8.0\Task12.exe
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\bin\Debug\net8.0\Task12.deps.json
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\bin\Debug\net8.0\Task12.runtimeconfig.json
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\bin\Debug\net8.0\Task12.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\bin\Debug\net8.0\Task12.pdb
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\Task12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\Task12.AssemblyInfoInputs.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\Task12.AssemblyInfo.cs
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\Task12.csproj.CoreCompileInputs.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\Task12.sourcelink.json
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\Task12.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\refint\Task12.dll
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\Task12.pdb
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\Task12.genruntimeconfig.cache
+C:\Users\Paulik\OneDrive\Desktop\Vs\Cs\КАСД\Задания\Task12\Task12\obj\Debug\net8.0\ref\Task12.dll
